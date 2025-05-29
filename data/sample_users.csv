@@ -1,0 +1,11 @@
+user_id,first_name,last_name,email,date_of_birth,signup_date,preferred_language,country_of_residence,loyalty_tier,family_status
+1,John,Smith,john.smith@example.com,1985-03-15,2020-01-15,English,USA,Gold,Family
+2,Maria,Garcia,maria.garcia@example.com,1990-07-22,2019-11-30,Spanish,Spain,Platinum,Single
+3,Akira,Tanaka,akira.tanaka@example.com,1978-12-05,2021-02-10,Japanese,Japan,Silver,Couple
+4,Sophie,Martin,sophie.martin@example.com,1992-09-18,2020-06-25,French,France,Gold,Single
+5,Mohammed,Ali,mohammed.ali@example.com,1980-04-30,2019-08-12,Arabic,UAE,Platinum,Family
+6,Emma,Wilson,emma.wilson@example.com,1995-01-25,2021-04-30,English,UK,Bronze,Couple
+7,Carlos,Rodriguez,carlos.rodriguez@example.com,1982-11-12,2020-03-18,Spanish,Mexico,Silver,Family
+8,Sanjay,Patel,sanjay.patel@example.com,1988-06-09,2019-12-05,English,India,Gold,Single
+9,Anna,Kowalski,anna.kowalski@example.com,1991-08-17,2021-01-22,Polish,Poland,Bronze,Couple
+10,Chen,Wei,chen.wei@example.com,1983-05-20,2020-02-28,Chinese,China,Silver,Family 

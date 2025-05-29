@@ -116,4 +116,27 @@ venv.bak/
 .streamlit/secrets.toml
 
 # OS specific
-.DS_Store 
+.DS_Store
+
+# Backup files
+*.bak
+
+# Large data files
+data/*.csv
+!data/sample_*.csv
+data/*.json
+!data/sample_*.json
+
+# Model files (exclude large ones)
+models/*.pkl
+!models/sample_*.pkl
+!models/README.md
+
+# Keep directories
+!models/
+!data/
+!api_data/
+
+# API cache
+api_data/*.json
+api_data/*.csv 

@@ -1,0 +1,11 @@
+destination_id,name,country,region,city,latitude,longitude,climate_type,best_season_to_visit,description,image_url,popularity_score,average_rating
+1,Paris,France,Europe,Paris,48.8566,2.3522,temperate,Spring,"The City of Light with Eiffel Tower and world-class museums",https://source.unsplash.com/featured/800x600?paris,9.8,4.7
+2,Tokyo,Japan,Asia,Tokyo,35.6762,139.6503,temperate,Spring,"A bustling metropolis blending traditional and ultramodern",https://source.unsplash.com/featured/800x600?tokyo,9.5,4.8
+3,New York City,USA,North America,New York,40.7128,-74.0060,temperate,Fall,"The Big Apple with iconic skyline and diverse neighborhoods",https://source.unsplash.com/featured/800x600?newyork,9.7,4.6
+4,Cairo,Egypt,Africa,Cairo,30.0444,31.2357,desert,Winter,"Ancient pyramids and rich history along the Nile",https://source.unsplash.com/featured/800x600?cairo,8.9,4.3
+5,Sydney,Australia,Oceania,Sydney,-33.8688,151.2093,mediterranean,Spring,"Harbor city with Opera House and beautiful beaches",https://source.unsplash.com/featured/800x600?sydney,9.2,4.5
+6,Rio de Janeiro,Brazil,South America,Rio,-22.9068,-43.1729,tropical,Winter,"Stunning beaches and mountain views with vibrant culture",https://source.unsplash.com/featured/800x600?rio,9.0,4.4
+7,Bali,Indonesia,Asia,Denpasar,-8.4095,115.1889,tropical,Summer,"Island paradise with beautiful beaches and temples",https://source.unsplash.com/featured/800x600?bali,9.3,4.6
+8,Santorini,Greece,Europe,Thira,36.3932,25.4615,mediterranean,Summer,"Breathtaking island with white-washed buildings and blue domes",https://source.unsplash.com/featured/800x600?santorini,9.4,4.8
+9,Kyoto,Japan,Asia,Kyoto,35.0116,135.7681,temperate,Fall,"Traditional Japan with ancient temples and beautiful gardens",https://source.unsplash.com/featured/800x600?kyoto,9.1,4.7
+10,Barcelona,Spain,Europe,Barcelona,41.3851,2.1734,mediterranean,Spring,"Gaudi architecture and beautiful Mediterranean beaches",https://source.unsplash.com/featured/800x600?barcelona,9.3,4.6 
